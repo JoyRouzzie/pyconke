@@ -5,7 +5,7 @@ ARS is method for training linear policies for continuous control problems
 ## Getting Started
 
 ```
-git clone https://github.com/allankiplangat/pyconke
+git clone https://github.com/VictorOmondi1997/pyconke
 ```
 
 ### install and create and activate virtual environment
@@ -68,8 +68,9 @@ Simple random search provides a competitive approach to reinforcement learning
 
 ## Author
 
-* **Allan Kiplangat** 
 * **Victor Omondi**
+* **Allan Kiplangat** 
+
 
 ## License
 
@@ -77,5 +78,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* PyconKE
+* **PyconKE**
 
